@@ -1,0 +1,1147 @@
+--------------------------------------------------
+Time and Date of error:  2025-05-18T18:51:28.247548
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:59)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-18T19:05:16.162349
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:59)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-18T19:06:31.676183
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:59)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-18T19:11:29.367904
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:60)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-18T19:11:29.372354
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:60)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-18T19:11:52.235369
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:59)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-18T19:14:12.953665
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:59)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-18T19:55:49.970470
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:59)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-18T21:37:32.060203
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:59)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-18T21:39:48.390439
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:59)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-18T21:40:17.433316
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:59)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-18T21:40:17.435652
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:59)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-18T21:42:53.775715
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:59)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-18T21:47:01.136862
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-18T21:47:01.155356
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-19T16:03:49.073344
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-19T16:03:49.075187
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-19T16:27:52.536195
+ERROR: Item ID: h792 is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: h792 is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.controller.ControllerTest.testInvalidItemException(ControllerTest.java:64)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:785)
+	at org.junit.platform.commons.support.ReflectionSupport.invokeMethod(ReflectionSupport.java:479)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:161)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:152)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:91)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:112)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:94)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:87)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$4(TestMethodTestDescriptor.java:221)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:217)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:159)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:70)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:157)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.executeEngine(EngineExecutionOrchestrator.java:221)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.failOrExecuteEngine(EngineExecutionOrchestrator.java:201)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:171)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:100)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:63)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:149)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:62)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:110)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:100)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:52)
+	at org.junit.platform.launcher.core.InterceptingLauncher.lambda$execute$2(InterceptingLauncher.java:47)
+	at org.junit.platform.launcher.core.ClasspathAlignmentCheckingLauncherInterceptor.intercept(ClasspathAlignmentCheckingLauncherInterceptor.java:25)
+	at org.junit.platform.launcher.core.InterceptingLauncher.execute(InterceptingLauncher.java:46)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:52)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:73)
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:100)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:520)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:748)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:443)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:211)
+--------------------------------------------------
+Time and Date of error:  2025-05-19T16:27:52.612016
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.controller.ControllerTest.testDataBaseFailureException(ControllerTest.java:74)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:785)
+	at org.junit.platform.commons.support.ReflectionSupport.invokeMethod(ReflectionSupport.java:479)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:161)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:152)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:91)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:112)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:94)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:87)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$4(TestMethodTestDescriptor.java:221)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:217)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:159)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:70)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:157)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.executeEngine(EngineExecutionOrchestrator.java:221)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.failOrExecuteEngine(EngineExecutionOrchestrator.java:201)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:171)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:100)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:63)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:149)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:62)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:110)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:100)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:52)
+	at org.junit.platform.launcher.core.InterceptingLauncher.lambda$execute$2(InterceptingLauncher.java:47)
+	at org.junit.platform.launcher.core.ClasspathAlignmentCheckingLauncherInterceptor.intercept(ClasspathAlignmentCheckingLauncherInterceptor.java:25)
+	at org.junit.platform.launcher.core.InterceptingLauncher.execute(InterceptingLauncher.java:46)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:52)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:73)
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:100)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:520)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:748)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:443)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:211)
+--------------------------------------------------
+Time and Date of error:  2025-05-19T16:33:03.103708
+ERROR: Item ID: h792 is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: h792 is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.controller.ControllerTest.testInvalidItemException(ControllerTest.java:64)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:785)
+	at org.junit.platform.commons.support.ReflectionSupport.invokeMethod(ReflectionSupport.java:479)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:161)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:152)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:91)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:112)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:94)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:87)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$4(TestMethodTestDescriptor.java:221)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:217)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:159)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:70)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:157)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.executeEngine(EngineExecutionOrchestrator.java:221)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.failOrExecuteEngine(EngineExecutionOrchestrator.java:201)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:171)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:100)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:63)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:149)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:62)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:110)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:100)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:52)
+	at org.junit.platform.launcher.core.InterceptingLauncher.lambda$execute$2(InterceptingLauncher.java:47)
+	at org.junit.platform.launcher.core.ClasspathAlignmentCheckingLauncherInterceptor.intercept(ClasspathAlignmentCheckingLauncherInterceptor.java:25)
+	at org.junit.platform.launcher.core.InterceptingLauncher.execute(InterceptingLauncher.java:46)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:52)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:73)
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:100)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:520)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:748)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:443)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:211)
+--------------------------------------------------
+Time and Date of error:  2025-05-19T16:33:03.172262
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.controller.ControllerTest.testDataBaseFailureException(ControllerTest.java:74)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:785)
+	at org.junit.platform.commons.support.ReflectionSupport.invokeMethod(ReflectionSupport.java:479)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:161)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:152)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:91)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:112)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:94)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:87)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$4(TestMethodTestDescriptor.java:221)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:217)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:159)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:70)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:157)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.executeEngine(EngineExecutionOrchestrator.java:221)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.failOrExecuteEngine(EngineExecutionOrchestrator.java:201)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:171)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:100)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:63)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:149)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:62)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:110)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:100)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:52)
+	at org.junit.platform.launcher.core.InterceptingLauncher.lambda$execute$2(InterceptingLauncher.java:47)
+	at org.junit.platform.launcher.core.ClasspathAlignmentCheckingLauncherInterceptor.intercept(ClasspathAlignmentCheckingLauncherInterceptor.java:25)
+	at org.junit.platform.launcher.core.InterceptingLauncher.execute(InterceptingLauncher.java:46)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:52)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:73)
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:100)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:520)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:748)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:443)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:211)
+--------------------------------------------------
+Time and Date of error:  2025-05-19T16:34:50.436834
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.controller.ControllerTest.testDataBaseFailureException(ControllerTest.java:74)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:785)
+	at org.junit.platform.commons.support.ReflectionSupport.invokeMethod(ReflectionSupport.java:479)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:161)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:152)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:91)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:112)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:94)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:87)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$4(TestMethodTestDescriptor.java:221)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:217)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:159)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:70)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:157)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.executeEngine(EngineExecutionOrchestrator.java:221)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.failOrExecuteEngine(EngineExecutionOrchestrator.java:201)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:171)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:100)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:63)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:149)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:62)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:110)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:100)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:52)
+	at org.junit.platform.launcher.core.InterceptingLauncher.lambda$execute$2(InterceptingLauncher.java:47)
+	at org.junit.platform.launcher.core.ClasspathAlignmentCheckingLauncherInterceptor.intercept(ClasspathAlignmentCheckingLauncherInterceptor.java:25)
+	at org.junit.platform.launcher.core.InterceptingLauncher.execute(InterceptingLauncher.java:46)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:52)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:73)
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:100)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:520)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:748)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:443)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:211)
+--------------------------------------------------
+Time and Date of error:  2025-05-19T16:35:50.217221
+ERROR: Item ID: h792 is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: h792 is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.controller.ControllerTest.testInvalidItemException(ControllerTest.java:64)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:785)
+	at org.junit.platform.commons.support.ReflectionSupport.invokeMethod(ReflectionSupport.java:479)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:161)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:152)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:91)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:112)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:94)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:87)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$4(TestMethodTestDescriptor.java:221)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:217)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:159)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:70)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:157)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:161)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:147)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:145)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:101)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.executeEngine(EngineExecutionOrchestrator.java:221)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.failOrExecuteEngine(EngineExecutionOrchestrator.java:201)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:171)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:100)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:63)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:149)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:62)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:110)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:100)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:52)
+	at org.junit.platform.launcher.core.InterceptingLauncher.lambda$execute$2(InterceptingLauncher.java:47)
+	at org.junit.platform.launcher.core.ClasspathAlignmentCheckingLauncherInterceptor.intercept(ClasspathAlignmentCheckingLauncherInterceptor.java:25)
+	at org.junit.platform.launcher.core.InterceptingLauncher.execute(InterceptingLauncher.java:46)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:52)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:73)
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:100)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:520)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:748)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:443)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:211)
+--------------------------------------------------
+Time and Date of error:  2025-05-19T17:29:26.293896
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-19T17:29:26.295948
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-19T19:37:25.681193
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-19T19:37:25.685631
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-19T20:40:08.601963
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-19T20:40:08.604241
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T18:45:48.515194
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T18:45:48.517811
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T19:05:13.293766
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T19:05:13.296370
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T19:58:48.797847
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:63)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T19:58:48.800629
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:63)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T19:59:17.698133
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T19:59:17.700443
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:00:55.486328
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:63)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:00:55.491160
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:63)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:01:07.473123
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:63)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:01:07.474727
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:63)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:01:19.786862
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:63)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:01:19.788667
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:63)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:01:42.326383
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:64)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:01:42.331599
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:64)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:02:20.006718
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:64)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:02:20.008417
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:64)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:04:13.210791
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:04:13.214306
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:04:55.117466
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:04:55.121454
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:08:37.526005
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:08:37.528902
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:09:50.844803
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:09:50.849926
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:28:38.113913
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:28:38.116188
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:28:51.432426
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:28:51.434526
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:29:43.179830
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:29:43.182290
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:30:29.296302
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:30:29.302706
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:32:20.785826
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:32:20.788793
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:32:29.205841
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:32:29.207604
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:33:05.995919
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:33:05.997970
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:66)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:34:38.132117
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:61)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:34:38.135541
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:61)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:41:30.761086
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:41:30.764941
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:62)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:43:28.609668
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:61)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:43:28.612338
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:61)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:59:08.138399
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:61)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-23T20:59:08.141130
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:87)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:61)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-30T16:01:24.921129
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:92)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:64)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-30T16:01:24.924246
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:92)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:64)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-30T16:01:47.989425
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:92)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:64)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-30T16:01:47.991533
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:92)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:64)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-30T16:02:19.040283
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:92)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:64)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-30T16:02:19.041980
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:92)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:64)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-30T16:04:57.766014
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:92)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:64)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-30T16:04:57.769325
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:92)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:64)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-30T16:08:00.068916
+ERROR: Database access failed while searching for item ID: def456
+se.kth.iv1350.createpos.integration.DataBaseFailureException: Database access failed while searching for item ID: def456
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:48)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:94)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:64)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
+Time and Date of error:  2025-05-30T16:08:00.090694
+ERROR: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+se.kth.iv1350.createpos.controller.InvalidItemException: Item ID: 56ghy is invalid. Item is not present in the inventory system.
+	at se.kth.iv1350.createpos.integration.ExternalInventorySystem.getItemID(ExternalInventorySystem.java:55)
+	at se.kth.iv1350.createpos.controller.Controller.scanItems(Controller.java:94)
+	at se.kth.iv1350.createpos.view.View.newSaleExecution(View.java:64)
+	at se.kth.iv1350.createpos.startup.Main.main(Main.java:22)
+--------------------------------------------------
